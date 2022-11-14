@@ -1,0 +1,4 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58",url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml",url-tvg="https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml"
+
+#EXTINF:-1 tvg-chno"" tvg-id="" tvg-logo="" group-title="Noticias",RT es
+https://mrgmaw.github.io/xgmw/Noticias/rtes.m3u8
